@@ -5,13 +5,16 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
 
 <!-- BREVE DESCRIPCION -->
-- 📚 I am currently studying at [Institute Certus](https://www.certus.edu.pe/)
+- 📚 Actualmente soy estudiante de **Ingeniería en Sistemas Computacionales** en el [Instituto Tecnológico de Chetumal](https://www.itchetumal.edu.mx/)
 
-- 🌱 I am currently in the race **Software Design and Development**
+- 🌱 En curso de titulación de la carrera de **Ingeniería en Sistemas Computacionales**
 
-- 🏙 Creator of the [Devs Community](https://github.com/Devs-Com) organization
+- 🏙 Apasionado por la programación, el desarrollo de software y la tecnología en general.
 
-- 📫 How to reach me **davidmramos30@gmail.com**
+- 📫 Puedes contactarme en **reyesvarguezli@gmail.com**
+
+- 💻 Habilidades: Resolución de problemas, desarrollo en **JavaScript**, **TypeScript**, **Vue.js**, **Laravel**, **MongoDB**, y **Flutter**.
+
 
 <!-- CONTACTO -->
 <h3 align="left">Connect with me:</h3>
