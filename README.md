@@ -4,9 +4,6 @@
 <!-- GIF HEADER -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
 
-<!-- VISTAS DEL PERFIL -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lireyes22&label=Profile%20views&color=0e75b6&style=flat" alt="lireyes22" /> </p>
-
 <!-- BREVE DESCRIPCION -->
 - 📚 I am currently studying at [Institute Certus](https://www.certus.edu.pe/)
 
