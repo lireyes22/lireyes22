@@ -32,7 +32,7 @@
 <!-- STATS Y LENGUAJES MÁS USADOS -->
 <!-- STATS Y LENGUAJES MÁS USADOS -->
 <div style="display:grid;align-items:center;justify-content:center">
-  <img style="height:100%;width:49%;max-width: 10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lireyes22&layout=compact&theme=gotham&langs_count=10&hide=html,handlebars,hack"/>
+  <img style="height:100%;width:49%;max-width: 10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lireyes22&layout=compact&theme=gotham&langs_count=10&hide=html,handlebars,hack,css"/>
 </div>
 
 
