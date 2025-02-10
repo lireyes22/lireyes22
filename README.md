@@ -5,7 +5,7 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
 
 <!-- BREVE DESCRIPCION -->
-- 📚 Actualmente **Tecnico en Programación** y estudiante de **Ingeniería en Sistemas Computacionales** en el [Instituto Tecnológico de Chetumal](https://www.itchetumal.edu.mx/)
+- 📚 Actualmente **Tecnico en Programación** y **Ingeniería en Sistemas Computacionales** (En proceso de titlación) en el [Instituto Tecnológico de Chetumal](https://www.itchetumal.edu.mx/)
 
 - 🌱 En curso de titulación de la carrera de **Ingeniería en Sistemas Computacionales**
 
